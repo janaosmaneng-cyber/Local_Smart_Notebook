@@ -1,0 +1,34 @@
+# Web framework
+fastapi
+uvicorn[standard]
+pydantic
+pydantic-settings
+python-multipart
+
+# Database
+sqlalchemy
+alembic
+
+# Ingestion
+pypdf
+python-docx
+openpyxl
+pandas
+pytesseract
+Pillow
+
+# Retrieval
+qdrant-client
+sentence-transformers
+rank-bm25
+
+# LLM
+ollama
+httpx
+
+# Tools / outputs
+matplotlib
+python-pptx
+
+# Testing
+pytest

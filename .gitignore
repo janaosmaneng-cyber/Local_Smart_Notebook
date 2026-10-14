@@ -1,0 +1,30 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+*.egg-info/
+.pytest_cache/
+
+# Env
+.env
+
+# Node / Frontend
+node_modules/
+dist/
+build/
+
+# Data (keep folder placeholders only)
+data/uploads/*
+data/qdrant/*
+data/artifacts/*
+data/temporary/*
+!data/**/.gitkeep
+*.db
+*.sqlite3
+
+# OS / IDE
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
