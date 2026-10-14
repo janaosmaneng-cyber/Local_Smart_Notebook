@@ -1,4 +1,6 @@
-# Local Smart Notebook
+# Local-Smart-Notebook
+Privacy-first, offline AI workspace powered by local LLMs, featuring multi-document RAG, intelligent summarization, multi-agent workflows, spreadsheet analytics, infographic generation and automated presentation generation.
+
 
 A local-first smart notebook: upload documents, chat with them using RAG,
 generate summaries, analytics, charts and presentations — all running locally.
